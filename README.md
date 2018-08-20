@@ -47,6 +47,7 @@
 ![6](https://github.com/Yuziquan/RecommenderSystem/blob/master/Screenshots/CB_result.png)
 
 <br/>
+
 #### 7. 基于用户的协同过滤算法UserCF的推荐结果 
 
 ![7](https://github.com/Yuziquan/RecommenderSystem/blob/master/Screenshots/UserCF_result.png)
