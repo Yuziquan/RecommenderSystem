@@ -1,5 +1,8 @@
 ## RecommenderSystem
 
+[![RecommenderSystem](https://img.shields.io/badge/RecommenderSystem-v1.0.0-brightgreen.svg)](https://github.com/Yuziquan/RecommenderSystem)
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Yuziquan/RecommenderSystem/blob/master/LICENSE)
+
 > 详情移步：https://blog.csdn.net/WuchangI/article/details/80160566
 
 ### 一、项目功能
